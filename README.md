@@ -2,7 +2,7 @@
 A data generation method based on conditional probability transition functions within the partially observable Markov decision process (POMDP) framework, together with a benchmark algorithm testing library designed for the generated datasets.
 
 ## Overview
-<img width="1911" height="703" alt="image" src="https://github.com/user-attachments/assets/2a775232-a525-4960-86da-aaa037e1159f" />
+<img width="1909" height="700" alt="image" src="https://github.com/user-attachments/assets/9c27644c-0a8c-497a-9bf2-cf77c448fd5d" />
 As shown in the figure, within the simulated data generation module, we construct seven health state transition models with distinct pathological characteristics based on conditional probabilities under the partially observable Markov decision process (POMDP) framework. These models are then used to generate seven corresponding simulated datasets. In the model evaluation module, based on the TIME SERIES LIBRARY proposed by Wang et al., we select several existing models and incorporate other advanced models to evaluate their predictive performance on the datasets. 
 
 ## Open-Source Notice
